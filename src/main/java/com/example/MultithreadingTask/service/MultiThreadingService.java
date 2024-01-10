@@ -20,9 +20,11 @@ import org.apache.tika.exception.TikaException;
 
 @ShellComponent
 public class MultiThreadingService {
+
     private final AtomicInteger totalOccurrences = new AtomicInteger(0);
     private static final String LOG_FILE_PREFIX = "logfile_";
     private static final Logger LOGGER = Logger.getLogger(MultiThreadingService.class.getName());
+
 
     /**
      * This method is used to search for a string in the files of a folder.
@@ -101,9 +103,8 @@ public class MultiThreadingService {
      * @param currentThreadIndex The index of the current thread.
      */
     private void searchInFiles(File[] files, String searchString, String logFolderPath, int currentThreadIndex) {
-        String logFileName = LOG_FILE_PREFIX + currentThreadIndex + ".txt";
+        String logFileName = LOG_FILE_PREFIX + currentThreadIndex + ".log";
         String logFilePath = logFolderPath + logFileName;
-
         for (File file : files) {
             if (file.isFile()) {
                 int occurrencesInFile = searchInFile(file, searchString);
