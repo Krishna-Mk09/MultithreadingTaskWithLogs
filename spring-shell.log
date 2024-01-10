@@ -1,0 +1,216 @@
+1704783097923:HELP
+1704783100043:help
+1704783226088:/home/vamshi/Documents vamshikrishna
+1704783273807:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704783623366:help
+1704783685074:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704783753203:help
+1704783780494:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704784851249:HELP
+1704784853176:help
+1704785092246:main /home/vamshi/Documents vamshikrishna
+1704785352368:help
+1704785526058:HELP
+1704785527966:help
+1704785587309:search-for-exact-string /home/vamshi/Documents
+1704785998000:help
+1704786043437:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704786100161:help
+1704786126143:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704786153726:help
+1704786175786:search-for-exact-string /home/vamshi/Documents vamshikrishna
+1704786332204:help
+1704786351459:search /home/vamshi/Documents vamshikrishna
+1704786455995:help
+1704786459441:search
+1704786491591:search /home/vamshi/Documents/datasource vamshikrishna
+1704786571732:search /home/vamshi/Documents/my stick pad.pdf vamshikrishna
+1704786652135:search /home/vamshi/Documents/mystickpad.pdf vamshikrishna
+1704786680820:search /home/vamshi/Documents/mystickpad1.txt vamshikrishna
+1704786748303:search /home/vamshi/Documents vamshikrishna
+1704787137828:help
+1704787142896:search
+1704787153702:search /home/vamshi/Documents vamshikrishna
+1704792741808:help
+1704798333547:search /home/vamshi/Documents ANUDEEP
+1704798584395:HELP
+1704798586138:help
+1704798613781:search /home/vamshi/Documents ANUDEEP
+1704798877288:help
+1704798898470:search /home/vamshi/Documents ANUDEEP
+1704799080873:HELP
+1704799082648:help
+1704799112965:search /home/vamshi/Documents ANUDEEP
+1704799726693:search /home/vamshi/Documents JAISRIRAM
+1704863342995:help
+1704863365601:search /home/vamshi/Documents HARIKRISHNA
+1704863732179:HELP
+1704863733994:help
+1704864946381:search /home/vamshi/Documents HARIKRISHNA
+1704865219925:help
+1704865236970:search /home/vamshi/Documents HARIKRISHNA
+1704865481412:help
+1704865504076:search /home/vamshi/Documents HARIKRISHNA
+1704866320151:search /home/vamshi/Documents HARI
+1704866337608:search /home/vamshi/Documents A
+1704866525759:search /home/vamshi/Documents B
+1704866552025:search /home/vamshi/Documents A
+1704866557032:search /home/vamshi/Documents ASIOJSHD
+1704866726887:package com.example.springShell;
+1704866726891:import org.apache.tika.exception.TikaException;
+1704866726893:import org.apache.tika.metadata.Metadata;
+1704866726894:import org.apache.tika.parser.AutoDetectParser;
+1704866726895:import org.apache.tika.parser.ParseContext;
+1704866726896:import org.apache.tika.sax.BodyContentHandler;
+1704866726897:import org.springframework.shell.standard.ShellComponent;
+1704866726898:import org.springframework.shell.standard.ShellMethod;
+1704866726899:import org.springframework.shell.standard.ShellOption;
+1704866726900:import org.xml.sax.SAXException;
+1704866726901:import java.io.*;
+1704866726901:import java.util.concurrent.atomic.AtomicInteger;
+1704866726902:@ShellComponent
+1704866726903:public class MultiThreadingService {
+1704866726948:}
+1704866734772:help
+1704866766317:search /home/vamshi/Documents HARIKRISHNA
+1704866783797:search /home/vamshi/Documents HARI
+1704866801103:search /home/vamshi/Documents HARIKRISHNA
+1704866815926:search /home/vamshi/Documents A
+1704867148044:search /home/vamshi/Documents HARIKRISHNA
+1704867397936:@ShellMethod("Search for exact string in the specified folder")
+1704867397945:public static void search(@ShellOption String folderPath, String searchString) {
+1704867397973:}
+1704867453132:search /home/vamshi/Documents H
+1704867512952:search /home/vamshi/Documents h
+1704867545479:search /home/vamshi/Documents H
+1704868414304:search /home/vamshi/Documents HARIKRISHNA
+1704868477485:search /home/vamshi/Documents ANUDEEP
+1704868569471:search /home/vamshi/Documents A
+1704869226553:package com.example.MultithreadingTask.service;
+1704869226563:import java.io.*;
+1704869226566:import java.util.concurrent.ExecutorService;
+1704869226568:import java.util.concurrent.Executors;
+1704869226569:import java.util.concurrent.atomic.AtomicInteger;
+1704869226570:import org.apache.tika.metadata.Metadata;
+1704869226571:import org.apache.tika.parser.AutoDetectParser;
+1704869226571:import org.apache.tika.parser.ParseContext;
+1704869226572:import org.apache.tika.sax.BodyContentHandler;
+1704869226573:import org.springframework.shell.standard.ShellComponent;
+1704869226574:import org.springframework.shell.standard.ShellMethod;
+1704869226575:import org.springframework.shell.standard.ShellOption;
+1704869226576:import org.xml.sax.SAXException;
+1704869226577:import org.apache.tika.exception.TikaException;
+1704869226578:@ShellComponent
+1704869226578:public class MultiThreadingService {
+1704869226627:}
+1704869268815:search /home/vamshi/Documents harikrishna
+1704869733059:search /home/vamshi/Documents A
+1704870128031:search /home/vamshi/Documents a
+1704870144136:package com.example.MultithreadingTask.service;
+1704870144138:import java.io.*;
+1704870144139:import java.util.concurrent.ExecutorService;
+1704870144140:import java.util.concurrent.Executors;
+1704870144141:import java.util.concurrent.atomic.AtomicInteger;
+1704870144142:import org.apache.tika.metadata.Metadata;
+1704870144142:import org.apache.tika.parser.AutoDetectParser;
+1704870144143:import org.apache.tika.parser.ParseContext;
+1704870144144:import org.apache.tika.sax.BodyContentHandler;
+1704870144145:import org.springframework.shell.standard.ShellComponent;
+1704870144146:import org.springframework.shell.standard.ShellMethod;
+1704870144146:import org.springframework.shell.standard.ShellOption;
+1704870144147:import org.xml.sax.SAXException;
+1704870144148:import org.apache.tika.exception.TikaException;
+1704870144148:@ShellComponent
+1704870144149:public class MultiThreadingService {
+1704870144190:}
+1704870173855:search /home/vamshi/Documents a
+1704870194982:search /home/vamshi/Downloads a
+1704870299133:search /home/vamshi/Documents Hari
+1704870308966:java
+1704870324031:search /home/vamshi/Documents java
+1704870372301:search /home/vamshi/Documents radio
+1704870408204:search /home/vamshi/Downloads radio
+1704870598642:search /home/vamshi/Downloads VAMSHI
+1704870838669:search /home/vamshi/Documents vamshi
+1704870868138:search /home/vamshi/Downloads vamshi
+1704870986046:search /home/vamshi/Documents vamshhuyftyftdfrdtyfty
+1704871057933:search /home/vamshi/Downloads vamshi
+1704873530236:package com.example.MultithreadingTask.service;
+1704873530247:import java.io.*;
+1704873530251:import java.util.concurrent.ExecutorService;
+1704873530254:import java.util.concurrent.Executors;
+1704873530256:import java.util.concurrent.atomic.AtomicInteger;
+1704873530258:import org.apache.tika.metadata.Metadata;
+1704873530259:import org.apache.tika.parser.AutoDetectParser;
+1704873530260:import org.apache.tika.parser.ParseContext;
+1704873530261:import org.apache.tika.sax.BodyContentHandler;
+1704873530262:import org.springframework.shell.standard.ShellComponent;
+1704873530263:import org.springframework.shell.standard.ShellMethod;
+1704873530265:import org.springframework.shell.standard.ShellOption;
+1704873530266:import org.xml.sax.SAXException;
+1704873530268:import org.apache.tika.exception.TikaException;
+1704873530269:@ShellComponent
+1704873530270:public class MultiThreadingService {
+1704873530313:}
+1704873557049:search /home/vamshi/Documents hari
+1704873575902:search /home/vamshi/Documents harikrishna
+1704873688481:search /home/vamshi/Documents JAISRIRAM
+1704878220823:search /home/vamshi/Downloads vamshi
+1704878674416:package com.example.MultithreadingTask.service;
+1704878674428:import java.io.*;
+1704878674431:import java.util.concurrent.ExecutorService;
+1704878674434:import java.util.concurrent.Executors;
+1704878674437:import java.util.concurrent.atomic.AtomicInteger;
+1704878674441:import org.apache.tika.metadata.Metadata;
+1704878674445:import org.apache.tika.parser.AutoDetectParser;
+1704878674449:import org.apache.tika.parser.ParseContext;
+1704878674452:import org.apache.tika.sax.BodyContentHandler;
+1704878674458:import org.springframework.shell.standard.ShellComponent;
+1704878674460:import org.springframework.shell.standard.ShellMethod;
+1704878674461:import org.springframework.shell.standard.ShellOption;
+1704878674463:import org.xml.sax.SAXException;
+1704878674464:import org.apache.tika.exception.TikaException;
+1704878674465:@ShellComponent
+1704878674465:public class MultiThreadingService {
+1704878674506:}
+1704878696629:search /home/vamshi/Documents a
+1704878741603:>search /home/vamshi/Documents vamshi
+1704878751171:>search /home/vamshi/Documents jaisriram
+1704878761486:>search /home/vamshi/Documents JAISRIRAM
+1704878799271:search /home/vamshi/Documents JAISRIRAM
+1704879042464:search /home/vamshi/Downloads vamshi
+1704879296504:search /home/vamshi/Documents JAISRIRAM
+1704879612567:search /home/vamshi/Downloads JAISRIRAM
+1704879639181:search /home/vamshi/Documents JAISRIRAM
+1704879678745:search /home/vamshi/Downloads vamshi
+1704879710217:search /home/vamshi/Downloads a
+1704879754199:search /home/vamshi/Downloads springbootapplication
+1704879789219:search /home/vamshi/Downloads springboot
+1704879811689:search /home/vamshi/Downloads springbootapplication
+1704879883462:search /home/vamshi/Downloads vamshi
+1704879961774:search /home/vamshi/Downloads a
+1704880078994:search /home/vamshi/Downloads Employee
+1704880206177:search /home/vamshi/Downloads a
+1704880463143:search /home/vamshi/Downloads Employeeshell:>search /home/vamshi/Downloads Employee
+1704880466239:shell:>
+1704880510701:search /home/vamshi/Downloads a
+1704880566490:search /home/vamshi/Documents JAISRIRAM
+1704880859671:search /home/vamshi/Documents /home/vamshi/logs/ JAISRIRAM
+1704880880882:help
+1704880929897:search /home/vamshi/Documents JAISRIRAM /home/vamshi/logs
+1704881034130:search /home/vamshi/Documents JAISRIRAM /home/vamshi/logs/
+1704881077721:search /home/vamshi/Downloads a /home/vamshi/logs/
+1704881138391:search /home/vamshi/Documents JAISRIRAM /home/vamshi/logs/
+1704882116737:search /home/vamshi/Documents dfg /home/vamshi/logs/
+1704882224100:search /home/vamshi/Documents efasd /home/vamshi/logs/
+1704882284647:search /home/vamshi/Documents dd /home/vamshi/logs/
+1704882299115:search /home/vamshi/Documents a /home/vamshi/logs/
+1704882709640:search /home/vamshi/Documents anudeep /home/vamshi/logs/
+1704884803560:search /home/vamshi/Documents dd /home/vamshi/logs/
+1704884822694:search /home/vamshi/Documents anudeep /home/vamshi/logs/
+1704884861089:search /home/vamshi/Downloads vamshi /home/vamshi/logs/
+1704884947323:search /home/vamshi/Documents vamshi /home/vamshi/logs/
+1704884989231:search /home/vamshi/Downloads vamshi /home/vamshi/logs/
+1704885113828:search /home/vamshi/Documents d /home/vamshi/logs/
+1704885127328:search /home/vamshi/Documents a /home/vamshi/logs/
+1704885140448:search /home/vamshi/Downloads a /home/vamshi/logs/
